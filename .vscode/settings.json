@@ -1,0 +1,7 @@
+{
+  "prettier.singleAttributePerLine": true,
+  "prettier.singleQuote": true,
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true
+}
